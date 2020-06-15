@@ -12,4 +12,4 @@
 
 <https://hyperskill.org/onboarding/>
 
-<https://www.jetbrains.com/help/education/for-learners.html?section=Atomic%20Kotlin />
+<https://www.jetbrains.com/help/education/for-learners.html?section=Atomic%20Kotlin/>
